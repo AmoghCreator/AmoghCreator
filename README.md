@@ -20,6 +20,29 @@ Welcome to my digital playground! 🎮 I'm a **Full-Stack Developer** with a pas
 
 ---
 
+## 🚀 Projects & Contributions
+
+### 🔖 **Title Generation Engine @ Samsung PRISM**
+- Developed a Generative AI model for creating titles from human-human conversations.
+- Leveraged the T5 Transformer model, achieving a generation time of 0.47 seconds with 61% accuracy.
+- Hosted the model online to demonstrate its efficiency in real-time applications.
+
+### 🎓 **CredCraft - Certificate Creation & Distribution Platform**
+- Built a SaaS platform for event organizers to streamline certificate creation and distribution.
+- Full-stack development using Next.js, Tailwind CSS, Node.js, and AWS.
+- Managed everything from UI/UX design to backend architecture and deployment.
+
+### 📚 **Elabs Quizzing & Project Submission Platforms**
+- Led the development of a quizzing platform used by 500+ users, supporting 190 simultaneous users.
+- Created comprehensive dashboards and admin panels to enhance user experience.
+- Deployed the API on Google Cloud and the front-end on Vercel.
+
+### 💡 **Sarazaiten (Stranger Hacks '23)**
+- Built with React for the front-end and Express for the back-end, using the OpenAI API.
+- Achieved 4th place at Stranger Hacks, showcasing the integration of AI in interactive applications.
+
+---
+
 ## 🧰 Toolbox
 
 ### **Languages**
@@ -47,29 +70,6 @@ Welcome to my digital playground! 🎮 I'm a **Full-Stack Developer** with a pas
 - **AI & Machine Learning:** TensorFlow, OpenAI API, Hugging Face
 - **Testing:** Jest, Mocha, Chai, Cypress
 - **Deployment:** Nginx, Heroku, Cloudflare
-
----
-
-## 🚀 Projects & Contributions
-
-### 🔖 **Title Generation Engine @ Samsung PRISM**
-- Developed a Generative AI model for creating titles from human-human conversations.
-- Leveraged the T5 Transformer model, achieving a generation time of 0.47 seconds with 61% accuracy.
-- Hosted the model online to demonstrate its efficiency in real-time applications.
-
-### 🎓 **CredCraft - Certificate Creation & Distribution Platform**
-- Built a SaaS platform for event organizers to streamline certificate creation and distribution.
-- Full-stack development using Next.js, Tailwind CSS, Node.js, and AWS.
-- Managed everything from UI/UX design to backend architecture and deployment.
-
-### 📚 **Elabs Quizzing & Project Submission Platforms**
-- Led the development of a quizzing platform used by 500+ users, supporting 190 simultaneous users.
-- Created comprehensive dashboards and admin panels to enhance user experience.
-- Deployed the API on Google Cloud and the front-end on Vercel.
-
-### 💡 **Sarazaiten (Stranger Hacks '23)**
-- Built with React for the front-end and Express for the back-end, using the OpenAI API.
-- Achieved 4th place at Stranger Hacks, showcasing the integration of AI in interactive applications.
 
 ---
 
